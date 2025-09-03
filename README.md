@@ -84,8 +84,3 @@ This flexibility ensures the prompt is not limited to Python but can serve as a 
 1. Clone this repository or download the files.  
 2. Open `debugging_prompt.md` to view the final prompt.  
 3. Use the prompt with any AI assistant (like ChatGPT) when guiding students.  
-
----
-
-📧 **Submission**: Share the GitHub/Drive link with  
-**pythonsupport@fossee.in**  
