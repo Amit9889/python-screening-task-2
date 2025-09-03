@@ -58,7 +58,7 @@ See [`debugging_prompt.md`](debugging_prompt.md) for the full prompt.
 
 ---
 
-## 🚀 Future Adaptations  
+##  Future Adaptations  
 
 This prompt can be adapted to other domains:  
 - **Other Programming Languages**: C, C++, Java debugging with similar rules.  
